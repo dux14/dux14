@@ -1,5 +1,3 @@
-# Profile README
-
 [![Profile Views](https://komarev.com/ghpvc/?username=dux14&color=brightgreen)](https://github.com/dux14)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samuel-duque-porras-388b03192/)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws)](https://aws.amazon.com)
