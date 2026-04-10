@@ -74,7 +74,6 @@ Previously at **Habi**, where I evolved from support analyst to full-stack QA �
 - 🧠 **AI-Driven Test Generation** — Using LLMs to auto-generate test cases from specifications
 - ⚡ **Multi-environment Test Orchestration** — Python/Pytest pipelines across cloud environments
 - 🎵 **[hgmlyrics](https://github.com/dux14/hgmlyrics)** — Open source lyrics wiki for Hakuna (active project)
-- 🛕 **[sacred-hub](https://github.com/dux14/sacred-hub)** — Digital Catholic resource hub (TypeScript PWA)
 
 ## Certifications
 
