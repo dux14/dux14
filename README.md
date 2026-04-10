@@ -1,123 +1,97 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=dux14&color=brightgreen)](https://github.com/dux14)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samuel-duque-porras-388b03192/)
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws)](https://aws.amazon.com)
-[![GitHub followers](https://img.shields.io/github/followers/dux14?label=Follow&style=social)](https://github.com/dux14/?tab=follow)
-
-# 👋 ¡Hola! Soy Samuel Duque Porras
-### QA Engineer → DevOps | Building the future of software delivery
-
-🔭 Currently working as **QA Semi Senior Engineer** at [Simetrik](https://simetrik.com)  
-🌱 Learning **Go, Docker, Kubernetes** for DevOps transition  
-👯 Looking to collaborate on **DevOps automation** and **SaaS projects**  
-💬 Ask me about **QA automation**, **AWS**, **Python testing**  
-📫 Reach me: sduqueporras5@email.com  
-⚡ Fun fact: Hackathon winner and continuous learner building SaaS products!
-
-## 🛠️ Technical Skills
-
-### Core QA & Automation
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-### Cloud & DevOps (Learning)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dux14&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dux14&layout=compact&theme=radical&hide_border=true)
+# Samuel Duque Porras
+
+### `AI Quality Engineer` · `DevSecOps Enthusiast`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-duque-porras-388b03192/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sduqueporras5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dux14)
+
+---
+
+*Building the future of Quality Engineering through AI — Bogotá, Colombia 🇨🇴*
 
 </div>
 
-## 🚀 Featured SaaS Projects
+## About Me
 
-### 🏆 Current Development (2025)
-- 🙏 **[SacredHub](https://github.com/dux14/sacred-hub)** - Digital Catholic Resource Hub (Go + React + PostgreSQL)
-- 🏠 **[FamilyVault](https://github.com/dux14/family-vault)** - Private Family Cloud Storage (Go + MinIO + Encryption)
-- 💳 **[SubscriptionSync](https://github.com/dux14/subscription-sync)** - Subscription Management Platform (Go + Stripe API)
+QA Semi Senior Engineer at **[Simetrik](https://simetrik.com)**, leading the **AI-Driven Automated Testing** initiative — integrating LLMs to automate test code generation and transforming how teams approach quality.
 
-### ☁️ DevOps Focus  
-- 📊 **[CloudCostly](https://github.com/dux14/cloud-costly)** - Multi-Cloud Cost Optimization (Go + AWS/GCP/Azure)
-- 🧪 **[TestOrchestr8](https://github.com/dux14/test-orchestr8)** - Universal QA Automation Platform
-- 🔧 **[InfraFlow](https://github.com/dux14/infra-flow)** - Infrastructure Automation Orchestrator
+I specialize in the intersection of **Quality Engineering**, **Artificial Intelligence**, and **DevSecOps**: designing intelligent test pipelines, building automation architectures with Python/Pytest, and optimizing CI/CD workflows across cloud environments.
 
-### 🎓 Learning & Growth
-- 🗣️ **[LinguaMetrics](https://github.com/dux14/lingua-metrics)** - English Proficiency Analytics (AI/ML)
-- 👥 **[HakunaCentral](https://github.com/dux14/hakuna-central)** - Community Platform (WebSocket + PWA)
-- 🎓 **[EduFlow](https://github.com/dux14/eduflow-platform)** - Smart Campus Management Platform
-- 📚 **[CourseForge](https://github.com/dux14/course-forge)** - Automated Learning Platform Generator
+Previously at **Habi**, where I evolved from support analyst to full-stack QA — shipping manual, exploratory, API, performance (K6), and security (OWASP ZAP) testing across AWS infrastructure.
 
-### 🚀 Enterprise Solutions
-- 🤖 **[BusinessAI](https://github.com/dux14/business-ai-orchestrator)** - AI-Powered Business Optimization
-- 💻 **[WorkstationOS](https://github.com/dux14/workstation-os)** - Role-Based Workstation Provisioning
+## Tech Stack
 
-## 🎯 2025-2026 Goals
+<div align="center">
 
-- ✅ **Transition from QA to DevOps** (In Progress)
-- ✅ **Launch 4 SaaS products** with $50K+ ARR target
-- ✅ **AWS Solutions Architect Associate** certification
-- ✅ **Contribute to open source** DevOps tools
-- ✅ **Build $500K+ portfolio** by 2030
+**Testing & Automation**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 
-## 🎓 Education & Certifications
+**AI & Innovation**
 
-### 🎓 **Education**
-- **Software Engineering** - Politécnico Grancolombiano (7th semester, ongoing)
-- **DevOps Professional Path** - Platzi (Active learner)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logo=ai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 🏅 **Certifications**
-- **AWS Cloud Practitioner** (2024)
-- **Platzi: UI Automation with Cypress** (2024)
-- **Platzi: Software Testing Fundamentals** (2024)
-- **AWS Cloud Quest: Cloud Practitioner** (2024)
+**Cloud & DevOps**
 
-### 🎯 **Next Certifications (2026)**
-- **AWS Solutions Architect Associate** (Target: Q2 2026)
-- **Docker Certified Associate** (Target: Q1 2026)
-- **Certified Kubernetes Administrator (CKA)** (Target: Q4 2026)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness_CI/CD-00ADE4?style=flat-square&logo=harness&logoColor=white)
 
-## 🌍 Connect & Collaborate
+**Security & Strategy**
 
-### 📫 **Get in Touch**
-- 💼 **LinkedIn**: [samuel-duque-porras](https://linkedin.com/in/samuel-duque-porras-388b03192/)
-- 📧 **Email**: sduqueporras5@gmail.com
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Shift-Left](https://img.shields.io/badge/Shift--Left_Testing-FF5733?style=flat-square)
+![BDD](https://img.shields.io/badge/Gherkin/BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 
-### 🤝 **Open to**
-- DevOps engineering opportunities
-- SaaS product collaborations
-- Open source contributions
-- Technical mentoring and knowledge sharing
-- Speaking at tech conferences and meetups
+</div>
+
+## Highlights
+
+🥈 **2nd Place** — [Habi AI Hackathon](https://www.tuhabi.com.co) with Microsoft & Azure (Jan 2025)
+\
+🏅 **Hall of Fame** — Habi's "We are curious and learn by doing" award (Dec 2024)
+\
+☁️ **AWS Cloud Practitioner** — Certified (2024)
+\
+🤖 **AI Testing Leader** — Driving QA transformation from manual/automated → AI-driven at Simetrik
+\
+🎓 **Software Engineering** — Politécnico Grancolombiano (Final year, 2026)
+
+## Currently Working On
+
+- 🧠 **AI-Driven Test Generation** — Using LLMs to auto-generate test cases from specifications
+- ⚡ **Multi-environment Test Orchestration** — Python/Pytest pipelines across cloud environments
+- 🎵 **[hgmlyrics](https://github.com/dux14/hgmlyrics)** — Open source lyrics wiki for Hakuna (active project)
+- 🛕 **[sacred-hub](https://github.com/dux14/sacred-hub)** — Digital Catholic resource hub (TypeScript PWA)
+
+## Certifications
+
+| Certification | Year |
+|---|---|
+| ☁️ AWS Cloud Practitioner | 2024 |
+| ☁️ AWS Cloud Quest: Cloud Practitioner | 2024 |
+| ☁️ AWS Knowledge: Cloud Essentials | 2024 |
+| 🧪 Platzi: UI Automation with Cypress | 2024 |
+| 🧪 Platzi: Software Testing | 2023 |
 
 ---
 
 <div align="center">
 
-**💡 "Building the bridge between Quality Assurance and DevOps Excellence"**
+*🎓 Academic projects → [@S4muelDP](https://github.com/S4muelDP)*
 
-*Follow my journey from QA to CTO while building a SaaS portfolio*
-
-![Visitor Count](https://profile-counter.glitch.me/dux14/count.svg)
-
-**⭐ Star my repositories if you find them useful! ⭐**
+![Profile Views](https://komarev.com/ghpvc/?username=dux14&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
