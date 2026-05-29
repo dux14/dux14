@@ -1,0 +1,8 @@
+# This repo (dux14/dux14) is PUBLIC — it powers the GitHub profile README.
+# Only README.md is meant to be public. Everything else in this folder is
+# Samuel's personal/professional material and must stay local.
+#
+# Whitelist approach: ignore everything, then re-include only public files.
+/*
+!/.gitignore
+!/README.md
