@@ -2,81 +2,70 @@
 
 # Samuel Duque Porras
 
-### `Agentic AI Engineer` · `Software Engineer × QA`
+### `AI Agent Security & Evals Engineer` · `QA/SDET background`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-duque-porras-388b03192/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-d-388b03192/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sduqueporras5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dux14)
 
----
-
-*Building AI that automates the SDLC — Bogotá, Colombia 🇨🇴 · open to remote*
+*I build agentic systems, test how they fail, and add the controls that stop them. Madrid, Spain · open to remote and hybrid (Madrid).*
 
 </div>
 
-## About Me
+## About
 
-I build the **agentic-AI systems that automate the software delivery lifecycle** — not just test code, but the *processes and workflows* around it.
+**Advanced AI QA Engineer at [Simetrik](https://simetrik.com)**, focused on the security and evaluation of LLM agents and the tools they use. 3.5+ years in software quality and test automation (Python, TypeScript).
 
-As **Advanced Quality Assurance Engineer at [Simetrik](https://simetrik.com)**, I lead AI-driven automation: orchestrating LLM agents, **RAG** pipelines, **MCP** servers, and custom skills/plugins (built with **Claude Code** and **Antigravity**) that plan, generate, execute and self-correct.
+- **MCP security:** Model Context Protocol tool integrations that let agents act across TestRail, CI and repositories under least-privilege scopes, tool allowlists and token handling.
+- **Security-minded evals:** an evaluation harness for an LLM-based evaluator (agreement, false-pass and false-fail rates, run-to-run stability) that reports its limits instead of a single accuracy number.
+- **Guardrails for coding agents:** specs and acceptance checks up front, isolated Git worktrees, timeouts, cross-agent review and human escalation for inconclusive runs.
+- **Application security testing:** OWASP ZAP scans that found XSS in authentication APIs, SQL injection and misconfigured security headers (OWASP Top 10).
 
-My edge is **engineering rigor**: I'm a Software Engineer grounded in **quality, reliability and security** — years of Python/Pytest automation, CI/CD, AWS, and security testing (OWASP ZAP). That production discipline is what most AI projects lack.
+**Now deepening:** offensive security (Hack4u) and LLM / agent red teaming against the OWASP Top 10 for LLM Applications and for Agentic Applications.
 
-**Heading toward → AI DevSecOps:** autonomous agentic systems across the SDLC, with a security lens.
-
-## Tech Stack
+## Stack
 
 <div align="center">
 
-**AI & Agentic**
+**AI & Agent Security**
 
-![LLM](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=probot&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF5733?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Evals](https://img.shields.io/badge/Agent_Evals-6E56CF?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 
 **Engineering & Cloud**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Quality & Security**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Shift-Left](https://img.shields.io/badge/Shift--Left-FF5733?style=flat-square)
 
 </div>
 
-## Currently Building
+## Projects
 
-- 🧰 **MCP server for QA/SDLC** — exposing agent-callable tools for test generation & execution
-- 🧪 **AI Evals Harness** — "QA for AI": LLM-as-judge, prompt regression, accuracy/recall metrics
-- 🎵 **[hgmlyrics](https://github.com/dux14/hgmlyrics)** — adding semantic search (RAG: pgvector + embeddings)
-- 🔌 An open-source **Claude Code skill/plugin**
+- 🧾 **[auditoria-cv](https://github.com/dux14/auditoria-cv)** — open-source Claude skill that checks what an ATS actually extracts from a CV and produces a section-by-section rewrite report.
 
 ## Highlights
 
-🥈 **2nd Place** — Habi AI Hackathon w/ Microsoft & Azure (Jan 2025)
+🥈 **2nd Place** — Habi AI Hackathon with Microsoft & Azure (Jan 2025)
 \
-🏅 **Hall of Fame** — Habi's "We are curious and learn by doing" (Dec 2024)
+🏅 **Hall of Fame** — Habi (Dec 2024)
 \
-☁️ **AWS Cloud Practitioner** — Certified (2024)
+☁️ **AWS Cloud Quest: Cloud Practitioner** (2024)
 \
-🎓 **Software Engineering** — Politécnico Grancolombiano (Final year, 2026)
+🎓 **B.S. Software Engineering** — Politécnico Grancolombiano (expected Dec 2026)
 
 ---
 
 <div align="center">
 
 *🎓 Academic projects → [@S4muelDP](https://github.com/S4muelDP)*
-
-![Profile Views](https://komarev.com/ghpvc/?username=dux14&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
